@@ -1,4 +1,4 @@
 <div align="center">
-<h2>Muhammad Galih</h2>
-  
+<h2>Muhammad Galih Prawiradilaga</h2>
+  Student
 </div>
