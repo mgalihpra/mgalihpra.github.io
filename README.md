@@ -11,10 +11,10 @@ Pajajaran Physical Society (PPS) is a community that focuses on spreading the kn
 - Webinar
 - Physics Explanation Challenge
 
-### 2022 | Student Researcher
+### Summer 2022 | Student Researcher
 I was a participant at Astrophysics Summer Program for International Research Experience (ASPIRE) held by Anton Pannekoek Institute (API), University of Amsterdam.
-<strong>Project<strong>: Finding AM CVn System from ZTF Data by Using Machine Learning
-<strong>Advisor<strong>: Dr. Jan van Roestel
+<strong>Project</strong>: Finding AM CVn System from ZTF Data by Using Machine Learning
+<strong>Advisor</strong>: Dr. Jan van Roestel
   
 ### 2021 - now | Video solution Maker at CoLearn
 As a video solution makers for physics subject
