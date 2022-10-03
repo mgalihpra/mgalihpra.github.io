@@ -9,6 +9,9 @@ Minor in astrophysics, my research is about numerical simulation on carbon burni
 - Analyzing the long-term evolution of white dwarf accreting helium (its mass and luminosity)
 - Analyzing the effect of overshooting on the occurrence of carbon burning off-center inside the white dwarf
 
+<strong>Core courses</strong>: Stellar Physics, Solar System, Cosmology, Physics of Galaxy.
+Elective courses: Introduction to High Energy Astrophysics, Topic in Computational Astrophysics, Capita Selecta in Stellar Physic
+
 ### 2016 - 2020 - B.Sc. in Physics, Universitas Padjadjaran, Indonesia
 My bachelor thesis is about designing a thermoelectric cloud chamber for detecting nuclear radiation
 - Analyzing the proper combination of thermoelectric cooling for cloud chamber.
